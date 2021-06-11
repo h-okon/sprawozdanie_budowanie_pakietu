@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Fri, 11 Jun 2021 12:16:37 +0200
+Source: cmus
+Binary: cmus cmus-dbgsym
+Architecture: source i386
+Version: 2.9.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian <Hubert.Okon@live.umcs.edu.pl>
+Changed-By: Debian <Hubert.Okon@live.umcs.edu.pl>
+Description:
+ cmus       - cmus is a small, fast and powerful console music player for Unix-
+Changes:
+ cmus (2.9.1-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 7cfdf4320baff494731439a2777089fcc3a1b766 1354 cmus_2.9.1-1.dsc
+ a4f539f3fde405b5fe719b9b80273b269c33f087 321004 cmus_2.9.1.orig.tar.gz
+ 7ca445cb869daf55e956c022cf8724263df27ea0 7760 cmus_2.9.1-1.debian.tar.xz
+ d40ede688dc58813d7594da2e5613ca10cc7671d 744456 cmus-dbgsym_2.9.1-1_i386.deb
+ ad8e208dee5e0a4b1a9d846738c71f725f639e63 12021 cmus_2.9.1-1_i386.buildinfo
+ ea07163618b094c9d6e81dc98c61818536c33fd3 246912 cmus_2.9.1-1_i386.deb
+Checksums-Sha256:
+ 897a5ee571159c65b78f1916769789263ede7fbc5bbcc7990fdffa0d6e14b99f 1354 cmus_2.9.1-1.dsc
+ 6fb799cae60db9324f03922bbb2e322107fd386ab429c0271996985294e2ef44 321004 cmus_2.9.1.orig.tar.gz
+ 13646e62b2f4a25583a1153b507a1e5267cd8a5a0fb41cc5743a792b3f28d256 7760 cmus_2.9.1-1.debian.tar.xz
+ 7d379523dfb75ca934e3da49260ea90fa1b0e90fee7efbd8784321148cac97ab 744456 cmus-dbgsym_2.9.1-1_i386.deb
+ fe062225bd1a419336d16b934b44380554f73e941687ac8c4511d5d4ea032c2a 12021 cmus_2.9.1-1_i386.buildinfo
+ deb90ea4c893f6ee642a57f218af97b037511f77bfcb68cbd2b8179d01fe71cd 246912 cmus_2.9.1-1_i386.deb
+Files:
+ 2d7427adb2e16c106e86d27e47304d8a 1354 unknown optional cmus_2.9.1-1.dsc
+ 914ea4f79827174f825e9e7ce3880c44 321004 unknown optional cmus_2.9.1.orig.tar.gz
+ 1c6f52f116a4e95096d0697a61704d97 7760 unknown optional cmus_2.9.1-1.debian.tar.xz
+ f61d678de1eee044578403e04bdb38b4 744456 debug optional cmus-dbgsym_2.9.1-1_i386.deb
+ b65769a97e2b0f1bb35bdf53bdefa524 12021 unknown optional cmus_2.9.1-1_i386.buildinfo
+ cc4f8ca4b407ecd651115921174e0de7 246912 unknown optional cmus_2.9.1-1_i386.deb

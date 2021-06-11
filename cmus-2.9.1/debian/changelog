@@ -1,0 +1,5 @@
+cmus (2.9.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Debian <Hubert.Okon@live.umcs.edu.pl>  Fri, 11 Jun 2021 12:16:37 +0200
